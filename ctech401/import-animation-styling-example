@@ -1,0 +1,18 @@
+(First program block [dont include this line])
+import stats
+
+stats.mean(data)
+
+
+(Second program block [dont include this line])
+from stats import mean
+
+mean(data)
+
+
+(Third program block [dont include this line])
+from stats import *
+
+mean(data)
+median(data)
+range(data)
