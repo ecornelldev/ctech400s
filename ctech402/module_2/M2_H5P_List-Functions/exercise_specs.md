@@ -14,7 +14,7 @@ For the following questions, refer to this list:
 Q1: Which expression produces the following value?<br>
 <pre>a_list = [2, 3, 14, 29, 45, 101]</pre>
 
-  a. list(reverse(a_list)) <br>
+  a. list(reversed(a_list)) <br>
   b. sorted(a_list) # <b> correct </b> <br>
   c. min(a_list) <br>
   d. max(a_list) <br>
@@ -23,7 +23,7 @@ Q1: Which expression produces the following value?<br>
 Q2: Which expression produces the following value?<br>
 <pre>2</pre>
 
-a. list(reverse(a_list)) <br>
+a. list(reversed(a_list)) <br>
 b. sorted(a_list) <br>
 c. min(a_list) # <b>correct</b> <br>
 d. max(a_list) <br>
