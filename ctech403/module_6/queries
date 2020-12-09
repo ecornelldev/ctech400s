@@ -1,0 +1,7 @@
+sample SQL query: SELECT firstname, lastname, balance FROM customers ORDER BY balance;
+
+equivalent basicdb query: select(where(from('zipcodes'), 'State', 'New York'), 'Zip Code')
+
+counting example: count(where(from('zipcodes'), 'State', 'New York'))
+
+
