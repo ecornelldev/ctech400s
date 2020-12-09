@@ -1,0 +1,14 @@
+basicdb function					SQL command
+
+create_table(table_name,…)			CREATE TABLE table_name …
+drop_table(table_name)				DROP TABLE table_name
+insert(table_name, …)				INSERT INTO table_name …
+delete(table_name, …)				DELETE FROM table_name …
+db_from(table_name)					FROM table_name
+select(rows, field)					SELECT field 
+where(rows, field, value)			WHERE field=value
+distinct(rows)						DISTINCT
+orderby(rows, field)				ORDERBY field
+count(rows)							COUNT(*)
+db_sum(rows, field)					SUM(field)
+join(rows1, rows2, field)			INNER JOIN ... ON rows1.field = rows2.field
