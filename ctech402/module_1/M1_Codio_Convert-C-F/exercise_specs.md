@@ -7,11 +7,11 @@
 
 ## Exercise Instructions
 
-Examine exercise.py in the code editor window. <br>
-A list is defined containing temperatures in Celcius.<br>
-The formula to convert Celcius to Farenheit is: (°C × 9/5) + 32 = °F <br>
-Write a program that uses a <code>for</code> loop to convert each element in <code>celcius_list</code> to farenheit using the forumla above.<br>
-You do not have to change list <code>celcius_list</code>, but rather, print each element's equivalent Farenheit temperature to the screen.<br>
+Examine `exercise.py` in the code editor window. <br>
+The variable `celcius_list` contains a list of temperatures in degrees Celcius.<br>
+The formula to convert Celcius to Fahrenheit is: (°C × 9/5) + 32 = °F <br>
+Write a program that uses a <code>for</code> loop to convert each element in `celcius_list` to Fahrenheit using the forumla above.<br>
+You do not have to change the value of <code>celcius_list</code>, but rather, print each element's equivalent Fahrenheit temperature to the screen.<br>
 
 
 ## Any Unique Requirements or Notes?

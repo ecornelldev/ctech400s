@@ -14,5 +14,10 @@ Create a program that takes a list of your favorite foods and prints them in a n
 * Output a sentence that states: 'My favorite foods:' followed by the foods contained in list <code>my_foods</code>, each separated by a comma.
 * Use join() and other string operators that you have learned to accomplish this task
 
+Sample Output:
+'My favorite foods: chicken salad, pizza, cheesburger, clam chowder, chocolate mousse'
+
+**The starter code already has food elements filled in. We should provide sample output. -JG**
+
 ## Environment/s Used
 Terminal. Python interpreter. Code editor.

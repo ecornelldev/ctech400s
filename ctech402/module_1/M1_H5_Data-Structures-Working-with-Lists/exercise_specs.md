@@ -33,7 +33,7 @@ Multiple choice and TF questions
 [''red', 'blue', 'red', 'blue', 'red', 'blue', 'orange'] <br>
  
  
- Do the following experessions evaluate to True or False?:
+ Do the following expressions evaluate to True or False?:
  
  #<b>False: </b>
  

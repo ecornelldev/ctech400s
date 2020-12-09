@@ -10,7 +10,7 @@ List indexing and list membership (in / not in)
 
 <b>List Indexing:</b>
 
-Question 1 (MC): Use the following list to select the correct value of <code>my_list[3]</code>.<br>
+Question 1 (MC): Select the correct value of <code>my_list[3]</code>.<br>
 
 <pre>my_list = ['Chicago', 'New York', 'Nashville', 'San Fransisco', 'Miami']</pre>
  
@@ -19,7 +19,7 @@ Question 1 (MC): Use the following list to select the correct value of <code>my_
  c. 'San Fransisco' # <b>correct</b> <br>
  d. IndexError
 
-Question 2 (MC): Use the following list to select the correct value of <code>my_list[j]</code> if <code>j = 2+2</code>.<br>
+Question 2 (MC): Select the correct value of <code>my_list[2+2]</code> <br>
 <pre>my_list = ['Chicago', 'New York', 'Nashville', 'San Fransisco', 'Miami']</pre>
 
  a. 'Nashville'<br>
@@ -53,7 +53,7 @@ else:
  </pre>
  
  a. 'I have the same car!' <br>
- b. 'I don't have the same car' # <b> correct</b> <br>
+ b. 'I don't have the same car.' # <b> correct</b> <br>
  c. None of the above
  
  

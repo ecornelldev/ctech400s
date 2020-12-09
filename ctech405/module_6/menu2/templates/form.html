@@ -1,0 +1,12 @@
+    <form action="menu">
+        <input type="submit" value="Display Menu">
+    </form>
+    
+     <form action="submenu">
+        <select name="section">
+          {% for section in sections %}
+          <option value="{{section}}">{{section}}</option>
+          {% endfor %}
+        </select>
+        <input type="submit" value="Display Menu Section">
+    </form>

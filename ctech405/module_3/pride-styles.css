@@ -1,0 +1,23 @@
+body
+{
+  width: 45em;
+  background-color: #F5F5FF;
+}
+
+p
+{
+  font-family: Georgia;
+  text-indent: 1em hanging;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+  color: orange;
+  font-size: 150%;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-top: .25em;
+  margin-bottom: .25em;
+  line-height: 1.2em;
+  text-align: right;
+}

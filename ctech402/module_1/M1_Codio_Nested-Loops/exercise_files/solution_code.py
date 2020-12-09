@@ -1,6 +1,6 @@
-size = ["small", "medium", "large"]
-pet = ["rabbit", "cat", "dog"]
+sizes = ["small", "medium", "large"]
+pets = ["rabbit", "cat", "dog"]
 
-for s in size:
-	for p in pet:
+for s in sizes:
+	for p in pets:
 		print("I have a " + s + " " + p)

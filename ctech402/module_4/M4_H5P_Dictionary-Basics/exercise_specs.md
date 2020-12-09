@@ -18,9 +18,11 @@ b. weekly_planner['hair appointment'] <br>
 c. weekly_planner[0] <br>
 d. weekly_planner['Monday'] <b># correct </b>
 
-Q2: What will the following statement result in?<br>
-<code>weekly_planner = { 'Monday': 'hair appointment'  , 'Tuesday': 'pick up groceries', 'Wednesday': 'baseball practice'}</code><br>
-<code>weekly_planner[2]</code>
+Q2: Below is a dictionary that contains a simple itinerary with one main task or appointment to do per day.
+
+<code>weekly_planner = { 'Monday': 'hair appointment'  , 'Tuesday': 'pick up groceries', 'Wednesday': 'baseball practice'}</code> 
+
+What is the value of the expression `weekly_planner[2]`?
 
 a. 'Tuesday' <br>
 b. error <b># correct </b> # perhaps give explanation again as to why this is a problem<br>  
@@ -29,8 +31,8 @@ d. 'baseball practice' <br>
 
 Display when answer is revealed:  Dictionaries use keys instead of integer indices to look up values. <code>weekly_planner </code> does not contain a key of 2 and so <code> weekly_planner[2]</code> will result in an error,
 
-Q3: You would like to have dinner with friends on Friday. Your entry will be 'dinner with friends.' How would you create a new key/value pair in the itinerary dictionary? <br>
-<b>(free text, answer is itinerary['Friday'] = 'dinner with friends')</b>
+Q3: You would like to have dinner with friends on Friday. Your entry will be 'dinner with friends.' How would you create a new key/value pair in the weekly_planner dictionary? <br>
+<b>(free text, answer is weekly_planner['Friday'] = 'dinner with friends')</b>
 
 Q4: Examine the dictionary and list below. Which of the following operations result in an error (select all that apply):
 

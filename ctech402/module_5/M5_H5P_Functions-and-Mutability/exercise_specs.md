@@ -9,7 +9,7 @@ strings vs lists.
 
 ## Exercise Instructions
 
-What is the result of <code>a</code> after the program finishes executing? (free text answer)
+What is the value of <code>a</code> after this program finishes executing? (free text answer)
 
 <pre>
 def multiple_strings(s):
@@ -21,7 +21,7 @@ b = multiple_strings(a)
 </pre>
 Answer: 'foo'
 
-What is the result of <code>a</code> after the program finishes executing?
+What is the value of <code>a</code> after this program finishes executing?
 
 <pre>
 def multiply_lists(l):
@@ -38,7 +38,7 @@ c. [5, 10, 15] <br>
 d. ERROR
 
 
-What is the result of <code>a</code> after the program finishes executing?
+What is the value of <code>a</code> after this program finishes executing?
 
 <pre>
 def add_to_list(l):
@@ -56,7 +56,7 @@ d. ERROR
 
 Display after answer is revealed: Lists are mutable. A list's value can change. Variables store references to lists. Therefore, a local variable inside a function and a global variable outside the function can refer to the same list. An operation (such as method append()) that modifies a list that is applied to the local variable in a function will therefore cause a change to the global variable as well. 
 
-What is the result of <code>a</code> after the program finishes executing?
+What is the value of <code>a</code> after this program finishes executing?
 
 <pre>
 def uppercase_string(s):
@@ -93,7 +93,7 @@ d. ERROR
 
 Should we have an open ended question? Explain why this worked as it did?
 
-What is the result of <code>a</code> after the program finishes executing?
+What is the value of <code>a</code> after this program finishes executing?
 
 <pre>
 def add_to_list(l):
@@ -105,7 +105,7 @@ a =  [1,2,3]
 b = add_to_list(a)
 </pre>
 
-a. [1,2,3, 1,2,3]<br>
+a. [1,2,3,1,2,3]<br>
 b. [1,2,3] <b> # correct </b> <br> 
 c. None of the above<br>
 d. ERROR

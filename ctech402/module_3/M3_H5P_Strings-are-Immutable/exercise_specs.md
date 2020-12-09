@@ -33,7 +33,7 @@ None of the above <br>
 my_string = 'Flood'<br>
 s = my_string.replace('F', 'G').replace('l', '') + ' ' + 'Bye!'<br>
 </pre>
-What is the value of s? # <b> Free text Quiz: 'Goodbye!' </b>
+What is the value of s? # <b> Free text Quiz: 'Good Bye!' </b>
  
 ### Question 3
 which will the following operation work on? <br>
@@ -42,10 +42,12 @@ which will the following operation work on? <br>
 
 a. list #<b> correct </b> <br>
 b. string
+c. both
+d. neither
 
 ### Question 4
 We want to add on to string <code>s = 'Hello</code> to form the phrase 'Hello there!'<br>
-Which of the following will work ? (select all that apply)
+Which of the following will work? (select all that apply)
 
 a. s = s + ' there!'  # <b> correct </b><br> 
 

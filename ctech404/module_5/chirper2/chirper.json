@@ -1,0 +1,3 @@
+[{"name": "chirps", "filename": "chirps.csv", "fields": ["userid", "time", "text"]},
+ {"name": "logins", "filename": "logins.csv", "fields": ["userid", "password"]}
+ ]

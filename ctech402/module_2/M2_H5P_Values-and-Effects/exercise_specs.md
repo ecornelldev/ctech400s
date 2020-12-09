@@ -9,9 +9,9 @@ List methods vs functions
 
 reversed() vs .reverse()
 
-The reversed() function does not modify the list, but returns a <b>new</b> list with the same elements in reversed order. It does not have an <i>effect</i> on the original list, but returns a <i>value</i>.
+The reversed() function does not modify the list it operates on, but instead returns a <b>new</b> list with the same elements in reversed order. It does not have an <i>effect</i> on the original list, but it does return a <i>value</i>.
 
-The reverse() method modifies the list. It does not return a </i>value</i> (it returns None), but has an <i>effect</i> on the  list.
+The .reverse() method modifies the list it operates on. It does not return a useful </i>value</i> (it returns `None`), but it does have an <i>effect</i> on the list.
 
 ## Exercise Instructions
 
@@ -46,7 +46,7 @@ b. a_list.reversed() # <b> correct </b> <br>
 c. sorted(a_list) <br>
 d. reversed(a_list)
 
-Display after answer is revealed: You should use the reverse() method because it modifies the list itself.
+Display after answer is revealed: You should use the reverse() method because it modifies the list it operates on.
 
 
 

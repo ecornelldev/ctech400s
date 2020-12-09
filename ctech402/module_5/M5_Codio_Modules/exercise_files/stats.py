@@ -23,6 +23,10 @@ def median(numbers):
 def range(numbers):
     return max(numbers) - min(numbers)
 
-# Calculate the sum of all numbers
-def sum(numbers):
+# Calculate the standard_deviation of the list of numbers
+def standard_deviation(numbers):
 	# complete function
+	 
+	
+	#return standard deviation
+	return 

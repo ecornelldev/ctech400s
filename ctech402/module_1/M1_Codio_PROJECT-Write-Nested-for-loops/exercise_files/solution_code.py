@@ -1,6 +1,6 @@
-entree = ["pasta alfredo", "baked salmon", "chicken parmesan", "sliders"]
-side = ["french fries", "mashed potatoes", "salad"]
+x = [1,2,3,4,5,6,7,8,9,10]
 
-for i in entree:
-	for j in side:
-		print("You should try " + i + " and " + j)
+for i in x:  # or use array here
+	for j in x: # or use array here
+		print(str(i) + ' times ' + str(j) + ' is ' + str(i*j))
+	

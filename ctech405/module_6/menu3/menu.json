@@ -1,0 +1,7 @@
+[
+    {
+    "name": "items", 
+    "filename": "items.csv",
+    "fields": ["Name","Price","Section"] 
+    }
+]

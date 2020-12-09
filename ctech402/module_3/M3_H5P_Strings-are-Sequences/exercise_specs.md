@@ -85,7 +85,7 @@ c. <code>+</code> <br>
 d. <code>All of the above</code>
 
 Q7:<br>
-Examine the following code snippet and choose the proper output:
+Examine the following code block and choose the proper output:
  
  <pre>
  my_string = 'cat'

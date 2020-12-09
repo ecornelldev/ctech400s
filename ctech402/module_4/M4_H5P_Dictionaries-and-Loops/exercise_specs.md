@@ -7,7 +7,7 @@
 
 ## Exercise Instructions
 
-Q1: Below is a dictionary containing flight numbers and the IATA codes for the international airports in which they depart.
+Q1: Below is a dictionary containing flight numbers and the IATA codes for the international airports from which they depart.
 Drag and drop the proper values into the missing portions of the code block to output the following sentence "Flight [flight number] departs from [airport]:
 
 <pre>
@@ -19,7 +19,7 @@ for f in flights:
  
 [ options for drag and drop:  f, f[flightd], flights, flights[f]] 
   
-Q2: We would like to modify our output to print the names of the airports instead of their IATA codes. We added an additional dictionary who's keys are IATA codes and values are the airport names. 
+Q2: We would like to modify our output to print the names of the airports instead of their IATA codes. We have added an additional dictionary whose keys are IATA codes and values are airport names. 
 
 <pre>
 flights = { 124 : 'LAX',  156: 'JFK',  87: 'MIA', 35: 'IAD', 78: 'HNL' }
@@ -50,5 +50,5 @@ Q4: Using the dictionary below, answer whether the following questions will retu
 <pre>cars = {'Camry': 'Toyota', 'Malibu': 'Chevrolet', 'Mustang': 'Ford', 'M-Class': 'Mercedes-Benz'}</pre>
 
 'Camry' in cars.values() F <br>
-'Chevrolet' in dcars.keys() F <br>
+'Chevrolet' in cars.keys() F <br>
 'Ford' in cars.values() T <br>

@@ -16,12 +16,12 @@ Q1. fruit_list.index('banana') # <b> 1 </b> <br>
 Q2. fruit_list.index('peach') # <b> 4 </b> <br>
 Q3. fruit_list.index('kiwi') # <b> error  </b> <br>
 
-Q4. How do you change 'grape' to equal 'kiwi'? # <b> a[2]='kiwi' </b>
+Q4. How could you change the element of `fruit_list` that is currently `'grape'` to be `'kiwi'` insteead? # <b> a[2]='kiwi' </b>
 
-Q5. How do you assign the array element 'watermelon' to the variable <code>my_fruit</code> using indexing notation?  # <b> my_fruit = fruit_list[3] </b>
+Q5. How could you assign the element of `fruit_list` that is currently 'watermelon' to the variable <code>my_fruit</code> using index notation?  # <b> my_fruit = fruit_list[3] </b>
 
 Q6.
-What is the result of <code>fruit_list</code> after we perform the following operations?
+What is the value of <code>fruit_list</code> after we perform the following operations?
 
 <pre>fruit_list = ['orange', 'banana', 'grape', 'watermelon', 'peach']</pre>
 <pre>fruit_list[2] = 'kiwi'</pre>

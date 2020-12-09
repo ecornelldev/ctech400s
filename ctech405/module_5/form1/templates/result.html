@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><title>Form output</title></head>
+<body>
+    <p>Requested URL: <b>{{url}}</b></p>
+    <p>You entered:</p>
+    <ul>
+      {% for k in fields.keys() %}
+        <li><b>{{k}}</b>: {{fields[k]}}</li>
+      {% endfor %}
+</body>
+</html>

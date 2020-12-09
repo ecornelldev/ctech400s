@@ -4,9 +4,9 @@
 Provide an opportunity for students to write a simple while loop.
 
 ## Exercise Context
-Write a program that prints out a sequence of numbers starting from 1 and ending in a number specified by a user.
+Write a program that prints out a sequence of numbers starting from 1 and ending in a number specified by the user.
 
-1. Prompt user to enter an integer between 1 and 100 on the command line, and assign the user's input to a variable.
+1. Prompt the user to enter an integer between 1 and 100 on the command line, and assign the user's input to a variable.
 2. Use a while loop to print out the sequence of numbers starting from 1 and ending in the value entered by the user.
 
 

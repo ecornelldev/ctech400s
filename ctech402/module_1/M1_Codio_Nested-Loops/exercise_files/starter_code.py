@@ -1,5 +1,5 @@
-size = ["small", "medium", "large"]
-pet = ["rabbit", "cat", "dog"]
+sizes = ["small", "medium", "large"]
+pets = ["rabbit", "cat", "dog"]
 
 for s in size:
 	# add for loop here
