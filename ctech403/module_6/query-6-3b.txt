@@ -1,0 +1,1 @@
+SELECT * FROM students WHERE courseid1 = 13 OR courseid2 = 13 OR courseid3 = 13 OR courseid4 = 13 OR courseid5 = 13 OR courseid6 = 13 OR courseid7 = 13 OR courseid8 = 13 OR courseid9 = 13 OR courseid10 = 13 
