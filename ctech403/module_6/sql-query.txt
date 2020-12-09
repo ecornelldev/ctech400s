@@ -1,0 +1,1 @@
+SELECT firstname, lastname, balance FROM customers ORDER BY balance;
